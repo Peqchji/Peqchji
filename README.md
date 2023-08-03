@@ -3,9 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Just call me 'Peach'
 --------------------
-
-วศบ.วิศวกรรมคอมพิวเตอร์ | KMITL
-
 * 🧠  I'm learning something
 
 <a href="https://www.github.com/Peqchji" target="_blank" rel="noreferrer"><img
