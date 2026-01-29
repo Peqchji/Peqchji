@@ -1,7 +1,9 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Jirapat Treesuwan (Peach)
 
 **Backend Software Engineer | Aspiring Data Engineer**
-I am experienced in building reliable, high-throughput systems and modernizing enterprise banking architectures. Currently, I am a Computer Engineering student at KMITL (Expected Graduation: April 2026).
+I have experience in building reliable, high-throughput systems and modernizing enterprise banking architectures. Currently, I am a Computer Engineering student at KMITL (Expected Graduation: April 2026).
+
+---
 
 ### 🛠️ Skills & Tech Stack
 
@@ -36,24 +38,24 @@ I am experienced in building reliable, high-throughput systems and modernizing e
 
 ### 🚀 Highlights & Projects
 * **Lego Object Detector:** Designed an **event-driven** microservice architecture using **RabbitMQ** and **YOLOv11** for non-blocking inference.
-* **CE Next Gen:** Built high-performance REST APIs in **Go** to handle profile management for 400+ applicants.
+* **CE Next Gen #2:** Built high-performance REST APIs in **Go** to handle profile management for 400+ applicants.
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <a href="https://github.com/Peqchji">
+  <a href="https://github.com/Peqchji" target="_blank" rel="noreferrer">
     <img src="https://github-readme-stats.vercel.app/api?username=Peqchji&show_icons=true&hide_border=true&title_color=0891b2&icon_color=0891b2&bg_color=1c1917&text_color=ffffff" alt="Peach's GitHub Stats" />
   </a>
-  <a href="https://github.com/Peqchji">
+  <a href="https://github.com/Peqchji" target="_blank" rel="noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peqchji&layout=compact&hide_border=true&title_color=0891b2&bg_color=1c1917&text_color=ffffff" alt="Top Languages" />
   </a>
 </p>
 
 ### 📫 Get in touch
 <p align="left">
-  <a target="_" href="mailto:jirapat3774.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a target="_" href="https://discord.com/users/Peqch"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-  <a target="_" href="https://www.facebook.com/profile.php?id=100009935643840"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a target="_" href="http://www.instagram.com/peqchji"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:jirapat3774.work@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/Peqch" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100009935643840" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="http://www.instagram.com/peqchji" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
