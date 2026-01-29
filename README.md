@@ -52,8 +52,8 @@ I am experienced in building reliable, high-throughput systems and modernizing e
 
 ### 📫 Get in touch
 <p align="left">
-  <a href="mailto:jirapat3774.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.com/users/Peqch"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100009935643840"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-  <a href="http://www.instagram.com/peqchji"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a target="_" href="mailto:jirapat3774.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a target="_" href="https://discord.com/users/Peqch"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+  <a target="_" href="https://www.facebook.com/profile.php?id=100009935643840"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a target="_" href="http://www.instagram.com/peqchji"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
