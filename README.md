@@ -42,17 +42,6 @@ I have experience in building reliable, high-throughput systems and modernizing 
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <a href="https://github.com/Peqchji" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api?username=Peqchji&show_icons=true&hide_border=true&title_color=0891b2&icon_color=0891b2&bg_color=1c1917&text_color=ffffff" alt="Peach's GitHub Stats" />
-  </a>
-  <br />
-  <a href="https://github.com/Peqchji" target="_blank" rel="noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Peqchji&layout=compact&hide_border=true&title_color=0891b2&bg_color=1c1917&text_color=ffffff" alt="Top Languages" />
-  </a>
-</p>
-
 ### 📫 Get in touch
 <p align="left">
   <a href="mailto:jirapat3774.work@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
